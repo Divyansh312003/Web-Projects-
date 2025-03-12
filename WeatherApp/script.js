@@ -8,7 +8,7 @@ const userInfoContainer= document.querySelector(".user-info-container");
 
 //initially userTab open rahega 
 let currentTab= usertab;
-const APIKey="46c28ada24a07764eeef52e57ebdb838";
+const APIKey="";
 currentTab.classList.add("current-tab");
 getfromSessionStorage();
 
